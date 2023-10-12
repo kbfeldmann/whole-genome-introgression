@@ -12,7 +12,7 @@ Hybrid chickadees have deficient learning and memory abilities compared to eithe
 We found 1) that chickadee ancestry and geographic cline analysis indicated continued northward movement of the chickadee hybrid zone in Pennsylvania (Taylor et al. 2014; Wagner et al. 2020), 2) that genomic cline analysis revealed reduced introgression of loci on the Z chromosome, and 3) that loci experiencing reduced introgression across the hybrid zone are related to cognitive and metabolic function.
 
 To learn more, check out my graduate-level thesis: [click here](https://github.com/kbfeldmann/WGS_chickadee_hybridization/blob/main/Masters_Thesis.pdf)  
-Or my presentation for Faculty-Level Ecologists and Evolutionary Biologists: [click here](https://github.com/kbfeldmann/WGS_chickadee_hybridization/blob/main/Masters_Talk.pdf)
+Or my presentation for faculty-level ecologists and evolutionary biologists: [click here](https://github.com/kbfeldmann/WGS_chickadee_hybridization/blob/main/Masters_Talk.pdf)
 
 ## Bioinformatics Pipeline
 
